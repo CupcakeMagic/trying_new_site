@@ -7,6 +7,8 @@ description: Learn everything about how to modify the game to suit your preferen
 
 Wellcome to "Surviving Mars" modding documentation
 
+new version
+
 [Paradox Interactive](https://www.paradoxplaza.com/ )
 
 [Haemimont Games](https://www.haemimontgames.com/ )
