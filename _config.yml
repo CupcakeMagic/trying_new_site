@@ -1,0 +1,33 @@
+permalink: /:categories/:year/:month/:day/:title
+
+exclude: ["ReadMe.md", "Rakefile", "changelog.md", "License.md"]
+highlighter: rouge
+
+title : Project Docs
+author :
+  name : Ralitsa
+  email : ralitza08@gmail.com
+  github : cupcakemagic
+
+production_url : https://cupcakemagic.github.io/trying_new_site
+
+markdown: markdeep
+
+JB :
+  version : 0.3.0
+  BASE_PATH : https://cupcakemagic.github.io/trying_new_site
+
+  archive_path: nil
+  categories_path : nil
+  tags_path : nil
+  atom_path : nil
+  rss_path : nil
+  
+  comments :
+    provider : false
+
+  analytics :
+    provider : false
+
+  sharing :
+    provider : false
