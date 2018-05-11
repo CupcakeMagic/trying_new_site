@@ -1,6 +1,6 @@
 ## Surviving Mars: Modding Documentation
 
-The documentation can be accessed through [here](index.md.html)
+The documentation can be accessed through [here](https://cupcakemagic.github.io/trying_new_site)
 
 ---
 [Paradox Interactive](https://www.paradoxplaza.com/ )
