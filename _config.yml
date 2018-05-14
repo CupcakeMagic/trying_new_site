@@ -3,19 +3,19 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: ["ReadMe.md", "Rakefile", "changelog.md", "License.md"]
 highlighter: rouge
 
-title : Project Docs
+title : Surviving Mars
 author :
   name : Ralitsa
   email : ralitza08@gmail.com
   github : cupcakemagic
 
-production_url : https://cupcakemagic.github.io/trying_new_site
+production_url : https://cupcakemagic.github.io/new_site
 
 markdown: markdeep
 
 JB :
   version : 0.3.0
-  BASE_PATH : https://cupcakemagic.github.io/trying_new_site
+  BASE_PATH : https://cupcakemagic.github.io/new_site
 
   archive_path: nil
   categories_path : nil
