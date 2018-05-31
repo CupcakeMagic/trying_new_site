@@ -11,8 +11,6 @@ author :
 
 production_url : https://cupcakemagic.github.io/new_site
 
-markdown: markdeep
-
 JB :
   version : 0.3.0
   BASE_PATH : https://cupcakemagic.github.io/new_site
